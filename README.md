@@ -1,6 +1,6 @@
 # InstagramClone_SwiftUI
 
-
+![ss](https://github.com/mrasityilmaz/InstagramClone_SwiftUI/blob/main/preview.png)
 
 ## SwiftUI ile geliştirdiğim Instagram UI Clone
 
